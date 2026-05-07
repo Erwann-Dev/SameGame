@@ -5,7 +5,7 @@ import model.GameState;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
-/*To test*/
+
 public class GameModelTest {
 
     @Test
